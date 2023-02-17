@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Merriweather-Black.otf",
+      "sha1": "55c904dda76fb32cc074b8c5e912822b96bd7a5c"
+    },
+    {
+      "path": "src/assets/fonts/Merriweather-BlackItalic.otf",
+      "sha1": "2c0596012d193bfa69eec94741ecade1f604d12b"
+    },
+    {
+      "path": "src/assets/fonts/Merriweather-Bold.otf",
+      "sha1": "2bd3d2cf91038c2331c3007f58747c9b0c055aa5"
+    },
+    {
+      "path": "src/assets/fonts/Merriweather-BoldItalic.otf",
+      "sha1": "d0b8101b51185bfef68b4c862f4797ddbe935241"
+    },
+    {
+      "path": "src/assets/fonts/Merriweather-Italic.otf",
+      "sha1": "2d40e1f188c2da791a4a1574da967005cba9b790"
+    },
+    {
+      "path": "src/assets/fonts/Merriweather-Light.otf",
+      "sha1": "e067b876f6f84e5c8d92400c13ad7a5b0454d428"
+    },
+    {
+      "path": "src/assets/fonts/Merriweather-LightItalic.otf",
+      "sha1": "fd131054bbac34a2fb5567dfdb041691f163f161"
+    },
+    {
+      "path": "src/assets/fonts/Merriweather-Regular.otf",
+      "sha1": "cba643dd3ca5272bfee5c3ef20ce9630ecfe2232"
+    }
+  ]
+}
